@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Temp-A",
+            "address": "https://anisette.hanast.dev"
+        }
+    ]
+}
